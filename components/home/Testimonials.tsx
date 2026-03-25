@@ -68,7 +68,7 @@ export default function Testimonials() {
               />
 
               <blockquote className="text-2xl md:text-4xl font-display leading-relaxed mb-8">
-                "{testimonials[currentIndex].quote}"
+                &ldquo;{testimonials[currentIndex].quote}&rdquo;
               </blockquote>
 
               <div className="space-y-2">
