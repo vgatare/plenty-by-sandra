@@ -17,11 +17,11 @@ export default function SandraTouch() {
               </p>
 
               <blockquote className="text-3xl md:text-5xl font-display leading-tight">
-                <span className="text-gold text-6xl md:text-7xl block mb-4">"</span>
-                Each Umushanana is more than a garment—it's a love letter to
+                <span className="text-gold text-6xl md:text-7xl block mb-4">&ldquo;</span>
+                Each Umushanana is more than a garment&mdash;it&apos;s a love letter to
                 Rwandan culture, stitched with the hands of our mothers and
                 grandmothers.
-                <span className="text-gold text-6xl md:text-7xl block mt-4">"</span>
+                <span className="text-gold text-6xl md:text-7xl block mt-4">&rdquo;</span>
               </blockquote>
 
               <div className="flex items-center gap-4 pt-6">
